@@ -1,0 +1,27 @@
+"Hola, mundo!"
+
+15
+5
+50
+2.0
+2
+#f
+#t
+#f
+"x es mayor"
+"x es mayor"
+"Está entre 2 y 10"
+7
+10
+(1 2 3 4)
+1
+(2 3 4 5)
+(0 1 2 3 4 5)
+#t
+#f
+120
+15
+20
+(4 8 12 16)
+Introduce un valor: Introduce un valor: "El producto es:"
+50
